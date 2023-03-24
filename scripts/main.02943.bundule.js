@@ -195,7 +195,7 @@ var index_esm = __webpack_require__(3648);
 ;// CONCATENATED MODULE: ./src/web/assets/images/metamask.png
 const metamask_namespaceObject = __webpack_require__.p + "images/metamask.02e3e.png";
 ;// CONCATENATED MODULE: ./src/web/assets/images/icon/logo.svg
-const logo_namespaceObject = __webpack_require__.p + "images/logo.9f60c.svg";
+const logo_namespaceObject = __webpack_require__.p + "/images/logo.9f60c.svg";
 // EXTERNAL MODULE: ./node_modules/.pnpm/@ethersproject+address@5.7.0/node_modules/@ethersproject/address/lib.esm/index.js + 1 modules
 var lib_esm = __webpack_require__(6353);
 // EXTERNAL MODULE: ./node_modules/.pnpm/@date-io+dayjs@2.16.0_dayjs@1.11.7/node_modules/@date-io/dayjs/build/index.esm.js
