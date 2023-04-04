@@ -133,7 +133,7 @@
           let size = 0;
           if (isPc || isTablet) {
             const size = (document.documentElement.clientWidth / 1536) * 14;
-            document.documentElement.style.fontSize = (size <= 9 ? 9 : size) + 'px';
+            // document.documentElement.style.fontSize = (size <= 9 ? 9 : size) + 'px';
           } else {
             size = _clientWidth;
             document.documentElement.style.fontSize = (size / 375) * 14 + 'px';
