@@ -239,7 +239,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/ubt-interface-v1-dist";
+/******/ 		__webpack_require__.p = "/ubt-interface-v1-dist-prod";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */

@@ -142,7 +142,7 @@
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "ubt-interface-v1-dist/scripts/" + chunkId + "." + {"75":"be982","596":"59495","685":"d731b","935":"91510","964":"cabd5","994":"38dca"}[chunkId] + ".bundule.js";
+/******/ 			return "ubt-interface-v1-dist-prod/scripts/" + chunkId + "." + {"75":"be982","596":"59495","685":"d731b","935":"91510","964":"cabd5","994":"38dca"}[chunkId] + ".bundule.js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
